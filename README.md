@@ -12,7 +12,7 @@ A partir do cruzamento de microdados públicos do INEP de 2024 (Censo Escolar, N
 
 | Recurso | Descrição | Link |
 | :--- | :--- | :--- |
-| **Relatório** | Documentação completa do processo de gerenciamento de equipe, metodologia de ETL, análise exploratória (EDA) e conclusões teóricas. | [Acessar Documento](https://docs.google.com/document/d/1MQSFskGGij4UCF5LLO_ckwod_lkNSz8H6WlncSnyGV0/edit?usp=sharing) |
+| **Relatório** | Documentação completa do processo de gerenciamento de equipe, metodologia de ETL, análise exploratória (EDA) e conclusões teóricas. | [Acessar Documento](https://drive.google.com/file/d/10XVJ3_MdasebVtz6aTApzmKWYG1dzzb6/view?usp=drive_link) |
 |  **Site** | Dashboard criado para a visualização interativa dos gráficos de dispersão, boxplots e cruzamentos de dados estruturados para o projeto. | [Visualizar Dashboard](https://86xr29yrk4puzyvpdzxnzg.streamlit.app/) |
 |  **Google Colab** | Scripts automatizados em Python utilizados na extração, limpeza, tratamento de nulos e modelagem dos dados. | [Abrir Notebook](https://colab.research.google.com/drive/1HpX57meQgTR0CvXsif2MDJuEelHJtuXX?usp=sharing) |
 
